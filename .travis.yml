@@ -1,6 +1,7 @@
 language: cpp
 sudo: true
 dist: trusty
+arch: ppc64le
 addons:
   apt:
     packages: &1
